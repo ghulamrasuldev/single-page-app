@@ -1,0 +1,16 @@
+:root{
+    --main-color:#191616;
+}
+.icon{
+    color: white;
+}
+
+footer{
+    background-color: var(--main-color);
+}
+
+.container{
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
